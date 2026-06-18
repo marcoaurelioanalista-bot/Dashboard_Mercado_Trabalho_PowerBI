@@ -43,5 +43,18 @@ Painel moderno, limpo e intuitivo, com narrativa visual clara e foco em Data Sto
 ## 🧠 Aprendizados
 Unir design, análise e storytelling é essencial para comunicar insights com impacto profissional.
 
+## Aprendizados e Reflexões
+
+Este projeto foi uma oportunidade de aprofundar meus conhecimentos em **Power BI** e em técnicas de **Data Storytelling**.  
+Durante o desenvolvimento, aprendi a importância de:
+
+- Estruturar dados de forma clara e organizada para facilitar a análise.  
+- Criar visualizações que não apenas informam, mas também **contam uma história**.  
+- Equilibrar estética e funcionalidade para que o dashboard seja ao mesmo tempo bonito e útil.  
+- Traduzir indicadores complexos em insights acessíveis para diferentes públicos.  
+
+Além disso, reforçou minha convicção de que **dados bem apresentados têm o poder de transformar decisões** e gerar impacto positivo em políticas públicas e estratégias empresariais.
+
+
 ## 🔗 Conecte-se
 [LinkedIn – Marco Aurélio Moreira](https://www.linkedin.com/in/marco-aurelio-moreira/)
