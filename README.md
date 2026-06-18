@@ -1,5 +1,21 @@
 ![Dashboard de Empregabilidade e Informalidade](Copiloto_20240618_110646.png)
 
+## Sobre o Projeto
+
+Este dashboard foi desenvolvido para analisar a **empregabilidade e informalidade no Brasil**, com base nos dados da **PNAD Contínua (IBGE)**.  
+O objetivo é transformar dados complexos em **insights visuais claros e estratégicos**, utilizando técnicas de **Data Storytelling** e **design de dashboards** para facilitar a tomada de decisões.
+
+A proposta combina **análise regional**, **indicadores de mercado de trabalho** e **visualização interativa** no Power BI, permitindo compreender tendências e disparidades entre diferentes estados e regiões do país.
+
+🔍 **Principais destaques:**
+- Padronização de medidas e formatações para clareza e precisão.  
+- Reestruturação dos cartões principais com cantos arredondados e proporções equilibradas.  
+- Destaque visual para regiões com maior variação de desempenho.  
+- Inserção de insights interpretativos que conectam dados a narrativas.
+
+📊 **Ferramenta:** Power BI  
+📁 **Fonte de dados:** PNAD Contínua (IBGE)  
+
 
 # Dashboard de Empregabilidade e Informalidade – Power BI
 
