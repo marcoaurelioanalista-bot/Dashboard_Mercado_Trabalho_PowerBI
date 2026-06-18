@@ -1,4 +1,5 @@
-![Dashboard de Empregabilidade e Informalidade](análisedeempregabilidadeeinformalidade.png)
+![Dashboard de Empregabilidade e Informalidade](Copiloto_20240618_110646.png)
+
 
 # Dashboard de Empregabilidade e Informalidade – Power BI
 
