@@ -1,0 +1,12 @@
+# Arquivos temporários
+*.tmp
+*.log
+*.bak
+
+# Arquivos de sistema
+Thumbs.db
+Desktop.ini
+
+# Power BI
+*.pbix.lock
+*.pbit.lock
