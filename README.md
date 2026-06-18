@@ -1,4 +1,4 @@
-![Dashboard de Empregabilidade e Informalidade](análise de empregabilidade e informalidade.png)
+![Dashboard de Empregabilidade e Informalidade](análisedeempregabilidadeeinformalidade.png)
 
 # Dashboard de Empregabilidade e Informalidade – Power BI
 
